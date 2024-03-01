@@ -1,0 +1,10 @@
+.TicketNum{
+    font-size: 3rem;
+}
+.ticket{
+    border: 1px solid red;
+    border-radius: 5px;
+    width: 300px;
+    margin: 5px;
+}
+/* //proper heiarchy using lifting state up */
